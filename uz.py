@@ -1001,4 +1001,5 @@ words = [
 	{ "englishWord": "anger", "rank": 998, "targetWord": "g’azab" },
 	{ "englishWord": "claim", "rank": 999, "targetWord": "talab" },
 	{ "englishWord": "continent", "rank": 1000, "targetWord": "qit’a" }
+	{ "englishWord": "Azimxon😂", "rank": 1, "targetWord": "mol" },
 ] 
