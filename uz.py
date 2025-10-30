@@ -1001,7 +1001,7 @@ words = [
 	{ "englishWord": "anger", "rank": 998, "targetWord": "g’azab" },
 	{ "englishWord": "claim", "rank": 999, "targetWord": "talab" },
 	{ "englishWord": "continent", "rank": 1000, "targetWord": "qit’a" },
-	{ "englishWord": "cow", "rank": 1001, "targetWord": "mol" },
+	{ "englishWord": "pool", "rank": 1001, "targetWord": "basseyn" },
 	{ "englishWord": "azimxon😂", "rank": 1002, "targetWord": "molbek" },
 	{ "englishWord": "hi", "rank": 1003, "targetWord": "salom" },
 	{ "englishWord": "hello", "rank": 1004, "targetWord": "salom" },
