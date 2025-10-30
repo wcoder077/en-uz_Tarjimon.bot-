@@ -1002,7 +1002,7 @@ words = [
 	{ "englishWord": "claim", "rank": 999, "targetWord": "talab" },
 	{ "englishWord": "continent", "rank": 1000, "targetWord": "qit’a" },
 	{ "englishWord": "cow", "rank": 1001, "targetWord": "mol" },
-	{ "englishWord": "azimxon😂", "rank": 1002, "targetWord": "mol" },
+	{ "englishWord": "azimxon😂", "rank": 1002, "targetWord": "molbek" },
 	{ "englishWord": "hi", "rank": 1003, "targetWord": "salom" },
 	{ "englishWord": "hello", "rank": 1004, "targetWord": "salom" },
 	{ "englishWord": "how are you?", "rank": 1005, "targetWord": "qalaysiz" },
